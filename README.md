@@ -38,39 +38,33 @@
 
 # 网站：
 
-
-
 ## 文档向
 
-- [ ] https://www.tubiaoxiu.com/	数据报告模板库
-- [ ] https://www.ilovepdf.com/	PDF文件处理网站
+- [ ] [数据报告模板库](https://www.tubiaoxiu.com/)
+- [ ] [PDF文件处理网站](https://www.ilovepdf.com/)
 
 ## 设计向
 
-* [ ] https://www.iconfont.cn/    阿里巴巴图标库
-* [ ] https://wallhaven.cc/		壁纸（用英文搜索）
+* [ ] [阿里巴巴图标库](https://www.iconfont.cn/ )
+* [ ] [壁纸（用英文搜索）](https://wallhaven.cc/)
 
 ## 技术向
 
-- [ ] https://d.serctl.com/		github relese 下载
-- [ ] https://paste.ubuntu.com/	代码分享
-- [ ] https://regex101.com/		正则匹配测试
+- [ ] [github relese 下载](https://d.serctl.com/)
+- [ ] [代码分享](https://paste.ubuntu.com/)
+- [ ] [正则匹配测试](https://regex101.com/)
 
 ## 通用
 
-- [ ] https://convertio.co/zh/	文件转换器
-- [ ] https://cowtransfer.com/	奶牛快传
-- [ ] https://msdn.itellyou.cn/    各种镜像下载
+- [ ] [文件转换器](https://convertio.co/zh/)
+- [ ] [奶牛快传](https://cowtransfer.com/)
+- [ ] [各种镜像下载](https://msdn.itellyou.cn/ )
 
+## 软件博客
 
-
-
-
-# 软件博客
-
-- [ ] http://www.yxssp.com/		异星软件空间
-- [ ] https://www.sssam.com/ 	阿萨姆软件
-- [ ] http://ilxdh.com/cat/174  	龙轩导航
+- [ ] [异星软件空间](http://www.yxssp.com/)
+- [ ] [阿萨姆软件](https://www.sssam.com/ )
+- [ ] [龙轩导航](http://ilxdh.com/cat/174 )
 
 
 
@@ -84,4 +78,3 @@
 - [ ] win + r运行 `mspaint` ,`clac`,`cmd`  
 - [ ] Markdown编写文档
 - [ ] 使用`javascript ` / `开发者工具`修改网页内容
-- [ ] 
