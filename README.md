@@ -73,3 +73,5 @@
 - [ ] win + r运行 `mspaint` ,`clac`,`cmd`  
 - [ ] Markdown编写文档
 - [ ] 使用`javascript ` / `开发者工具`修改网页内容
+- [ ] 快捷键 Win+Shift+s 调出系统自带的截图工具，在 设置 - 轻松使用 - 键盘 中打开“使用PrtScn按键打开屏幕截图”选项，就可以直接按PrtScn键调用。
+- [ ] 快捷键 Win+v 调出剪切板历史工具。
