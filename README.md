@@ -16,8 +16,6 @@
 - [ ] **QuickLook**  -  仿Macbook快速预览文件
 - [ ] **annie**  -  下载网站视频
 
-
-
 # 手机软件 - 安卓
 
 * [ ] **酷安**  -  搞机社区
@@ -64,9 +62,6 @@
 
 - [ ] [异星软件空间](http://www.yxssp.com/)
 - [ ] [阿萨姆软件](https://www.sssam.com/ )
-- [ ] [龙轩导航](http://ilxdh.com/cat/174 )
-
-
 
 # Tips
 
